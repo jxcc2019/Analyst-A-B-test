@@ -1,7 +1,7 @@
 # Analyst-A-B-test
 The third project in Udacity nanodegree of Data Analyst
 
-—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+—————————————————————————————————————————————————————
 03/18/19 update suggestion from Udacity mentors.
 using loops to simulate 10000 can take a considerable amount of time vs using numpy 
 
